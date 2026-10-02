@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleDisplayName</key><string>GoHealth</string>
+<key>NSHealthShareUsageDescription</key><string>GoHealth läser puls, steg och sömn från Apple Hälsa för att visa dina mätningar. I denna testversion stannar uppgifterna på din iPhone.</string>
+<key>UILaunchScreen</key><dict/>
+</dict></plist>
